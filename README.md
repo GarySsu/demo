@@ -1,6 +1,6 @@
 # Demo
 
-## 功能特性
+## Feature
 - Membership API (Add/Delete/Update/Single Query and Pagination)
 - Product Ordering API
 - Order Query API
